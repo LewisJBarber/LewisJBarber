@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+## My name is Lewis Barber.
+
+### I am currently participating in a data science bootcamp!
 
 <!--
 **LewisJBarber/LewisJBarber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
